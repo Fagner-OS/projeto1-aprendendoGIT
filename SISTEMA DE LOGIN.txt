@@ -1,3 +1,4 @@
 digite seu usuario
 digite sua senha
+qual seu sexo
 confirme id
